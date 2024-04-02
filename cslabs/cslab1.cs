@@ -1,13 +1,8 @@
-internal class Program
+using System;
+class HelloWorld 
 {
-  private static void Main(string[] args)
+  static void Main() 
   {
-    Console.WriteLine("Hello, World!");
-  }
-}internal class Program
-{
-  private static void Main(string[] args)
-  {
-    Console.WriteLine("Hello, World!");
+      Console.WriteLine("Hello, World!");
   }
 }
